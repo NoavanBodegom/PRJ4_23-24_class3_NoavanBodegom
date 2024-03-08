@@ -1,0 +1,29 @@
+@charset "utf-8";
+body h1 {
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    padding-left: 15px;
+    padding-top: 0px;
+    padding-right: 15px;
+}
+
+
+
+.mybgcell1 {
+	background-color: #E1E1E1;
+}
+
+.mybgcell2 {
+	background-color:#EDEDED
+}
+
+.mybgcell3 {
+	background-color:#F4F4F4;
+}
+
+
+.mybgcell4 {
+	background-color: #EDEDED
+}
